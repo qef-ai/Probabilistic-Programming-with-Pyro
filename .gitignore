@@ -1,0 +1,7 @@
+*.DS_Store
+**/**/*.DS_Store
+Part*I/**/*.DS_Store
+Part*II/**/*.DS_Store
+Part*III/**/*.DS_Store
+**/*.DS_Store
+Part*II/*.DS_Store
