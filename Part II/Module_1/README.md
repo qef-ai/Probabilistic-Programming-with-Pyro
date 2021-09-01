@@ -1,4 +1,4 @@
-Module 1 "Module 1 name"
+Module 2 "Module 2 name"
 ===========
 
 ### [Read it online here]()
