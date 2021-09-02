@@ -6,7 +6,7 @@ root: intro
 parts:
   - caption: Part I
     chapters:
-    - file: Part_I/Module_1/
+    - file: Part_I/Module_1
   - caption: Part II
     chapters:
     - file: Part_II/Module_1/Module1_dogs_log_linear-Pyro
